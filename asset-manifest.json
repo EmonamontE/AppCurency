@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/app-currency/static/css/main.073c9b0a.css",
+    "main.js": "/app-currency/static/js/main.2600dddd.js",
+    "static/js/787.a62ecccf.chunk.js": "/app-currency/static/js/787.a62ecccf.chunk.js",
+    "static/media/logo.svg": "/app-currency/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/app-currency/index.html",
+    "main.073c9b0a.css.map": "/app-currency/static/css/main.073c9b0a.css.map",
+    "main.2600dddd.js.map": "/app-currency/static/js/main.2600dddd.js.map",
+    "787.a62ecccf.chunk.js.map": "/app-currency/static/js/787.a62ecccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2600dddd.js"
+  ]
+}
